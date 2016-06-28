@@ -1,0 +1,16 @@
+{
+  "name": "ReactDemoTest",
+  "version": "0.1.0",
+  "devDependencies": {
+    "babel-preset-react": "^6.11.0",
+    "grunt": "~0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-bower-task": "~0.4.0",
+    "grunt-cli": "~1.1.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

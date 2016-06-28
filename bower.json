@@ -1,0 +1,15 @@
+{
+  "name": "ReactDemoTest",
+  "authors": [
+    "UglyMelon007 <UglyMelon007@gmail.com>"
+  ],
+  "description": "React Demo",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "react": "^15.1.0",
+    "babel": "*",
+    "jquery": "^3.0.0"
+  }
+}
